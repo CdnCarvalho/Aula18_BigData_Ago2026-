@@ -219,7 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Bases de Dados
+# Base de Dados
 *.csv
 *.xlsx
 *.xls
